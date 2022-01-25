@@ -1,1 +1,1 @@
-GIT tutorial
+GIT tutorial details will be here
